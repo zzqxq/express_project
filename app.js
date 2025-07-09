@@ -4,7 +4,7 @@ const model = require('./src/models/model'); // 引入所有模型, 以便同步
 const routes = require('./src/routes/index'); // 引入路由
 const config = require('./config/index'); // 引入配置文件
 
-const bodyParser = require('body-parser'); // 引入 body-parser 库  git 练习 模拟冲突 修改同一处代码1111
+const bodyParser = require('body-parser'); // 引入 body-parser 库  git 练习 模拟冲突 修改同一处代码22222
 
 
 const app = express(); // 创建 express 实例
