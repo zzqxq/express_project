@@ -3,7 +3,7 @@ console.log("chart.js2");
 console.log("chart.js3");
 console.log("chart.js4");
 console.log("chart.js5");
-console.log("chart.js6");
+   console.log("chart.js6");
 console.log("chart.js7");
 console.log("chart.js8");
 console.log("chart.js9");
@@ -16,3 +16,5 @@ console.log("chart.js15");
 console.log("chart.js16");
 console.log("chart.js17");
 console.log("chart.js18");
+
+console.log('supplier order');
